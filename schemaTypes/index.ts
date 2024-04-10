@@ -1,6 +1,6 @@
-import blockContent from './blockContent'
-import category from './category'
-// import post from './post'
+import video from './video'
+import price from './price'
+
 import portfolio from './portfolio'
 
-export const schemaTypes = [portfolio, category, blockContent]
+export const schemaTypes = [portfolio, price, video]
